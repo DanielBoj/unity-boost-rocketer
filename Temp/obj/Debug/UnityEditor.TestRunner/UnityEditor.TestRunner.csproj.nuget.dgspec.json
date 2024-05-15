@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {}
+  },
+  "projects": {
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

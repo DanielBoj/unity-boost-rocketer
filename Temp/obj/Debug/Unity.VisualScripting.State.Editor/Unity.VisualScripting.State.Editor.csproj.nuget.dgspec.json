@@ -1,0 +1,598 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.Editor.csproj": {}
+  },
+  "projects": {
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Core.Editor",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.Core.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.Core/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Flow.Editor",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.Editor.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.Flow.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.Flow/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.Editor.csproj",
+        "projectName": "Unity.VisualScripting.State.Editor",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.Editor.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.State.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.State.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/Unity.VisualScripting.State/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Core.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/Unity.VisualScripting.Flow.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.UI.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEditor.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj"
+              },
+              "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+                "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/home/dboj/workspace/unity/Boost Rocketer/UnityEngine.UI.csproj",
+        "packagesPath": "/home/dboj/.nuget/packages/",
+        "outputPath": "/home/dboj/workspace/unity/Boost Rocketer/Temp/obj/Debug/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dboj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
